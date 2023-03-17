@@ -1,0 +1,2 @@
+PC Number	OS Installed	Status
+32		Mac		In use
